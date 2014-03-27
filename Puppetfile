@@ -56,3 +56,14 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "virtualbox",  "1.0.11"
+github "libreoffice", "4.1.5"
+github "mongodb",     "1.2.1"
+github "transmission","1.1.0"
+github "dropbox",     "1.2.0"
+github "java",        "1.4.0"
+github "vlc",         "1.0.5", :repo => "extrinsicmedia/puppet-vlc"
+github "processing",  "1.1.0"
+github "handbrake",   "1.0.1"
+github "cyberduck",   "1.0.1", :repo => "extrinsicmedia/puppet-cyberduck"
+

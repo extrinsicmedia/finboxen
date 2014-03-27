@@ -67,6 +67,18 @@ node default {
   include nodejs::v0_6
   include nodejs::v0_8
   include nodejs::v0_10
+  
+  # additional includes
+  include virtualbox
+  include libreoffice
+  include mongodb
+  include transmission
+  include dropbox
+  include java
+  include vlc
+  include processing
+  include handbrake
+  include cyberduck
 
   # default ruby versions
   ruby::version { '1.9.3': }
