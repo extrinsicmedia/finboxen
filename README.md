@@ -1,4 +1,5 @@
-# FIN Boxen - Modified from https://github.com/boxen/our-boxen
+# FIN Boxen - Boxen for VFX and Film Production
+## Modified from https://github.com/boxen/our-boxen
 
 This is a template Boxen project designed for your organization to fork and
 modify appropriately.
@@ -66,7 +67,7 @@ your boxen:
 ```
 sudo mkdir -p /opt/boxen
 sudo chown ${USER}:staff /opt/boxen
-git clone https://github.com/boxen/our-boxen /opt/boxen/repo
+git clone https://github.com/extrinsicmedia/finboxen /opt/boxen/repo
 cd /opt/boxen/repo
 git remote rm origin
 git remote add origin <the location of my new git repository>
