@@ -79,16 +79,6 @@ node default {
   include processing
   include handbrake
   include cyberduck
-  include virtualbox
-  include libreoffice
-  include mongodb
-  include transmission
-  include dropbox
-  include java
-  include vlc
-  include processing
-  include handbrake
-  include cyberduck
   include firefox
   include vagrant
   include chrome
