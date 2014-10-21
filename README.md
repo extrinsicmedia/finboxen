@@ -1,4 +1,4 @@
-# Our Boxen
+# FIN Boxen - Modified from https://github.com/boxen/our-boxen
 
 This is a template Boxen project designed for your organization to fork and
 modify appropriately.
@@ -163,6 +163,25 @@ provide as optional installs under the
 [boxen organization](https://github.com/boxen). These modules are all
 tested to be compatible with Boxen. Use the `Puppetfile` to pull them
 in dependencies automatically whenever `boxen` is run.
+
+FIN Boxen includes these additional installs:
+* Virtualbox
+* Libreoffice
+* Mongodb
+* Transmission
+* Dropbox
+* Java
+* Vlc
+* Processing
+* Handbrake
+* Cyberduck
+* Firefox
+* Vagrant
+* Chrome
+* Skype
+* Silverlight
+* Adobe Reader
+* BitTorrent Sync
 
 ### Including boxen modules from github (boxen/puppet-<name>)
 
