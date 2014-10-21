@@ -79,6 +79,23 @@ node default {
   include processing
   include handbrake
   include cyberduck
+  include virtualbox
+  include libreoffice
+  include mongodb
+  include transmission
+  include dropbox
+  include java
+  include vlc
+  include processing
+  include handbrake
+  include cyberduck
+  include firefox
+  include vagrant
+  include chrome
+  include skype
+  include silverlight
+  include adobe_reader
+  include btsync
 
   # default ruby versions
   ruby::version { '1.9.3': }
